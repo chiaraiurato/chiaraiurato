@@ -6,7 +6,7 @@
 - 📫 How to reach me **chiara.iurat@gmail.com**
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
   
-![tryhackme stats](https://raw.githubusercontent.com/chiaraiurato/chiaraiurato/main/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/chiaraiurato/chiaraiurato/master/assets/thm_propic.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
