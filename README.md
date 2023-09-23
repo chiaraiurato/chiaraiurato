@@ -5,6 +5,8 @@
 - 🎲 My interests are CTF & Cybersecurity stuff
 - 📫 How to reach me **chiara.iurat@gmail.com**
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
+  
+![tryhackme stats](https://raw.githubusercontent.com/chiara.iurat/chiara.iurat/master/assets/thm_propic.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
