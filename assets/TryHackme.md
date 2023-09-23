@@ -1,1 +1,1 @@
-![tryhackme stats](https://raw.githubusercontent.com/<chiara.iurat>/<chiara.iurat>/master/assets/thm_propic.png)
+![tryhackme stats](<img src="https://tryhackme-badges.s3.amazonaws.com/chiara.iurat.png" alt="TryHackMe">)
