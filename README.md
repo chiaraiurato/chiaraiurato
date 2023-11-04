@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiaraiurato&label=Profile%20views&color=0e75b6&style=flat" alt="chiaraiurato" /> </p>
 
 - 👨🏽‍💻 I’m currently studying MSc Computer Engineering at Tor Vergata University
-- 🎲 My interests are CTF & Cybersecurity stuff
+- 🎲 My interests are CTF & Cybersecurity
 - 📫 How to reach me **chiara.iurat@gmail.com**
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
